@@ -449,14 +449,14 @@ border-radius: 10px;
 }
 ```
 ##### As always feel free to use this project as your learning example. The result was as below. Run the code and be sure to get this result :
-![result](/TUE%203rd/Shipping%20html/Result.png)
+![result](/WEEK%20ONE/TUE%203rd/Shipping%20html/Result.png)
 
 Find the images for this project here:
 
-![images](/TUE%203rd/Shipping%20html/daniel.jpg)
+![images](/WEEK%20ONE/TUE%203rd/Shipping%20html/daniel.jpg)
 
-![images](/TUE%203rd/Shipping%20html/headphones.webp)
+![images](/WEEK%20ONE/TUE%203rd/Shipping%20html/headphones.webp)
 
-![images](/TUE%203rd/Shipping%20html/basket.png)
+![images](/WEEK%20ONE/TUE%203rd/Shipping%20html/basket.png)
 
-![images](/TUE%203rd/Shipping%20html/dropdown.png)
+![images](/WEEK%20ONE/TUE%203rd/Shipping%20html/dropdown.png)
