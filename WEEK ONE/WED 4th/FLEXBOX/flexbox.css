@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+body{
+  
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+}
+.nav{
+    background-color: whitesmoke;
+    height: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100w;
+}
+#nav-list{
+    margin-left: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    gap: 20px;
+
+
+}
+
+.nav div{
+    display: flex;
+    gap: 25px;
+    margin-left:auto;
+    margin-right: 50px;
+    font-size: x-large;
+
+
+}
+.logo{
+    height: 30px;
+    object-fit: contain;
+    margin: 35px;
+    margin-right: 20px;
+}
+#register{
+    padding: 3px;
+    border-radius: 8px;
+    width: 120px;
+    
+}
+#image{
+    height: 600px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 300px;
+}
+.main div{
+    display: block;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 200px;
+    position: relative;
+    margin-top: 150px;
+}
+#learnmore{
+    padding: 3px;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    margin-top: 20px;
+    width: 140px;
+    height: 50px; 
+}
+#footer{
+    display: flex;
+    flex-direction: row;
+    align-self: stretch;
+}
+#f-images{
+    margin-right: 25px;
+}
+#h1{
+    font-size: 50px;
+}
+#paragraph{
+    font-size: larger;
+    margin: 40px 0px;
+}
+#list{
+    font-size: x-large;
+}
+#dropdown{
+ 
+  height: 10px;
+  width: 10px;
+  margin-top: 10px;
+
+}
+#Features,#Company{
+    gap: 5px;
+}
